@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ottClone.github.io/static/css/main.afb64b8e.css",
-    "main.js": "/ottClone.github.io/static/js/main.bd639510.js",
+    "main.js": "/ottClone.github.io/static/js/main.b9d47714.js",
     "static/js/453.56296426.chunk.js": "/ottClone.github.io/static/js/453.56296426.chunk.js",
     "index.html": "/ottClone.github.io/index.html",
     "main.afb64b8e.css.map": "/ottClone.github.io/static/css/main.afb64b8e.css.map",
-    "main.bd639510.js.map": "/ottClone.github.io/static/js/main.bd639510.js.map",
+    "main.b9d47714.js.map": "/ottClone.github.io/static/js/main.b9d47714.js.map",
     "453.56296426.chunk.js.map": "/ottClone.github.io/static/js/453.56296426.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.afb64b8e.css",
-    "static/js/main.bd639510.js"
+    "static/js/main.b9d47714.js"
   ]
 }
